@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/excel-to-json/static/css/main.5342c262.chunk.css",
+    "main.js": "/excel-to-json/static/js/main.e84de87c.chunk.js",
+    "main.js.map": "/excel-to-json/static/js/main.e84de87c.chunk.js.map",
+    "runtime-main.js": "/excel-to-json/static/js/runtime-main.83e7bbd6.js",
+    "runtime-main.js.map": "/excel-to-json/static/js/runtime-main.83e7bbd6.js.map",
+    "static/js/2.94a30da9.chunk.js": "/excel-to-json/static/js/2.94a30da9.chunk.js",
+    "static/js/2.94a30da9.chunk.js.map": "/excel-to-json/static/js/2.94a30da9.chunk.js.map",
+    "index.html": "/excel-to-json/index.html",
+    "static/css/main.5342c262.chunk.css.map": "/excel-to-json/static/css/main.5342c262.chunk.css.map",
+    "static/js/2.94a30da9.chunk.js.LICENSE.txt": "/excel-to-json/static/js/2.94a30da9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e7bbd6.js",
+    "static/js/2.94a30da9.chunk.js",
+    "static/css/main.5342c262.chunk.css",
+    "static/js/main.e84de87c.chunk.js"
+  ]
+}
